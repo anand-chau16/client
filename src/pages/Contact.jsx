@@ -43,7 +43,7 @@ function Contact() {
                     type="text"
                     id="name"
                     name="name"
-                    class="w-full bg-gray-100 bg-opacity-50 rounded border border-gray-300 focus:border-[#16d812] focus:bg-white focus:ring-2 focus:ring-green-600 text-base outline-none text-gray-700 py-1 px-3 leading-8 transition-colors duration-200 ease-in-out"
+                    class="w-full bg-gray-100 bg-opacity-50 rounded border border-gray-300 focus:border-[#16d812] hover:border-[#16d812] focus:bg-white focus:ring-2 focus:ring-green-500 text-base outline-none text-gray-700 py-1 px-3 leading-8 transition-colors duration-200 ease-in-out"
                   />
                 </div>
               </div>
@@ -56,7 +56,7 @@ function Contact() {
                     type="email"
                     id="email"
                     name="email"
-                    class="w-full bg-gray-100 bg-opacity-50 rounded border border-gray-300 focus:border-[#16d812] focus:bg-white focus:ring-2 focus:ring-green-600 text-base outline-none text-gray-700 py-1 px-3 leading-8 transition-colors duration-200 ease-in-out"
+                    class="w-full bg-gray-100 bg-opacity-50 rounded border border-gray-300 focus:border-[#16d812] hover:border-[#16d812] focus:bg-white focus:ring-2 focus:ring-green-500  text-base outline-none text-gray-700 py-1 px-3 leading-8 transition-colors duration-200 ease-in-out"
                   />
                 </div>
               </div>
@@ -68,7 +68,7 @@ function Contact() {
                   <textarea
                     id="message"
                     name="message"
-                    class="w-full bg-gray-100 bg-opacity-50 rounded border border-gray-300 focus:border-[#16d812] focus:bg-white focus:ring-2 focus:ring-green-600 h-32 text-base outline-none text-gray-700 py-1 px-3 resize-none leading-6 transition-colors duration-200 ease-in-out"
+                    class="w-full bg-gray-100 bg-opacity-50 rounded border border-gray-300 focus:border-[#16d812] hover:border-[#16d812] focus:bg-white focus:ring-2 focus:ring-green-500 h-32 text-base outline-none text-gray-700 py-1 px-3 resize-none leading-6 transition-colors duration-200 ease-in-out"
                   ></textarea>
                 </div>
               </div>
@@ -78,7 +78,7 @@ function Contact() {
                 </button>
               </div>
               <div class="p-2 w-full pt-8 mt-8 border-t border-gray-200 text-center">
-                <a class="text-green-700 text-lg">AcademixLance@gmail.com</a>
+                <a class="text-green-500 text-lg">AcademixLance@gmail.com</a>
                 <p class="leading-normal my-5">
                   United Institute of Management, Naini,
                   <br />

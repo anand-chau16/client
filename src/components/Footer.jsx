@@ -82,7 +82,7 @@ export default function Footer() {
                     type="text"
                     id="footer-field"
                     name="footer-field"
-                    class="w-full bg-opacity-50 rounded border border-gray-300 focus:ring-2 focus:ring-[#16d812] focus:border-green-500 text-base outline-none text-gray-700 py-1 px-3 leading-8 transition-colors duration-200 ease-in-out"
+                    class="w-full bg-opacity-50 rounded border border-gray-300 focus:ring-2 focus:ring-[#16d812] focus:border-green-500 hover:border-[#16d812] text-base outline-none text-gray-700 py-1 px-3 leading-8 transition-colors duration-200 ease-in-out"
                   />
                 </div>
                 <button class="lg:mt-2 xl:mt-0 flex-shrink-0 inline-flex text-white bg-[#16d812] border-0 py-2 px-6 focus:outline-none hover:bg-green-600 rounded">

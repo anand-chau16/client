@@ -17,7 +17,7 @@ function Home() {
         </div>
         <div className="buttons">
           <Link to="/preg">
-            <button className="b text-white  text-sm p-2 border-[2px] border-white rounded-full md:w-[150px] md:text-lg font-bold h-[57px] hover:scale-110 duration-300 my-[450px]  bg-white bg-opacity-30">
+            <button className="b text-white  text-sm p-2 border-[2px] border-white rounded-full md:w-[120px] md:text-lg font-bold h-[57px] hover:scale-110 duration-300 my-[450px]  bg-white bg-opacity-30">
               Get Started
             </button>
           </Link>
