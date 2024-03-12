@@ -1,11 +1,9 @@
-import React from 'react';
+import React from "react";
 
 function StuReg() {
   return (
     <>
-      <div
-        className="min-h-screen py-16 bg-gradient-to-r from-green-100 via-green-200 to-green-300"
-      >
+      <div className="min-h-screen py-16 bg-gradient-to-r from-green-100 via-green-200 to-green-300">
         <div className="container mx-auto">
           <div className="flex w-8/12 bg-white rounded-xl mx-auto shadow-lg overflow-hidden">
             <div className="flex flex-col items-center justify-center w-1/2 shadow-xl">
@@ -57,14 +55,15 @@ function StuReg() {
                   <div className="mt-5">
                     <input type="checkbox" className="border-gray-300" />
                     <span>
-                      I accept the
+                      {" "}
+                      I accept the{" "}
                       <a
                         href="#"
                         className="text-[#16d812] font-semibold hover:underline"
                       >
                         Terms of Use
-                      </a>
-                      &
+                      </a>{" "}
+                      & {" "}
                       <a
                         href="#"
                         className="text-[#16d812] font-semibold hover:underline"

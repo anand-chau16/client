@@ -16,10 +16,10 @@ function Home() {
           Grow Together❞
         </div>
         <div className="buttons">
-          <Link to='/Preg'>
-          <button className="b text-white  text-sm p-2 border-[2px] border-white rounded-full md:w-[150px] md:text-lg font-bold h-[57px] hover:scale-110 duration-300 my-[450px]  bg-white bg-opacity-30">
-            Get Started
-          </button>
+          <Link to="/preg">
+            <button className="b text-white  text-sm p-2 border-[2px] border-white rounded-full md:w-[150px] md:text-lg font-bold h-[57px] hover:scale-110 duration-300 my-[450px]  bg-white bg-opacity-30">
+              Get Started
+            </button>
           </Link>
         </div>
         <div className="b box my-72">
@@ -58,9 +58,7 @@ function Home() {
               endless possibilities of computer science and pave the way for a
               brighter, more innovative future.
             </p>
-            <p className="text-xl font-semibold">
-            Happy coding!
-            </p>
+            <p className="text-xl font-semibold">Happy coding!</p>
           </div>
           <div className="right">
             <img className="h-screen w-auto" src="../images/stu.png" alt="" />

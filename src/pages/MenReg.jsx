@@ -49,6 +49,7 @@ function MenReg() {
                     <div class="mt-5">
                       <input type="checkbox" class="border-gray-300" />
                       <span>
+                        {" "}
                         I accept the{" "}
                         <a
                           href="#"

@@ -23,12 +23,13 @@ function Contact() {
             <p class="lg:w-2/3 mx-auto leading-relaxed text-base">
               Email: contact@academixlance.com
               <br />
-              Phone:  +918810xxxx
+              Phone: +918810xxxx
               <br />
               Live Chat: Available on our website during business hours
             </p>
             <p class="lg:w-2/3 mx-auto leading-relaxed text-base">
-            Additionally, you can fill out the form below, and we'll get back to you as soon as possible.
+              Additionally, you can fill out the form below, and we'll get back
+              to you as soon as possible.
             </p>
           </div>
           <div class="lg:w-1/2 md:w-2/3 mx-auto">
@@ -73,7 +74,7 @@ function Contact() {
               </div>
               <div class="p-2 w-full">
                 <button class="flex mx-auto text-white bg-[#16d812] border-0 py-2 px-8 focus:outline-none hover:bg-green-600 rounded text-lg font-semibold">
-                Submit
+                  Submit
                 </button>
               </div>
               <div class="p-2 w-full pt-8 mt-8 border-t border-gray-200 text-center">
