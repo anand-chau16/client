@@ -32,10 +32,10 @@ const router = createBrowserRouter(
       {/* jaise hi cursor aata hai usi samay fetch ho ke cache ho jaata hai */}
     </Route>
   )
-);
+)
 
 ReactDOM.createRoot(document.getElementById("root")).render(
   <React.StrictMode>
     <RouterProvider router={router} />
   </React.StrictMode>
-);
+)
