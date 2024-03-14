@@ -32,7 +32,7 @@ function StuReg() {
                     placeholder="Last Name"
                     className="shadow-md border border-gray-400 py-1 px-2 my-3 rounded-sm w-full focus:outline-none focus:border-[#16d812] focus:ring-[#16d812] block focus:ring-1 hover:bg-slate-50"
                   />
-                  <form>
+                  
                     <input
                       type="email"
                       placeholder="Email"
@@ -41,7 +41,7 @@ function StuReg() {
                     <p className="invisible peer-invalid:visible text-pink-600 text-xs">
                       Please provide a valid email address.
                     </p>
-                  </form>
+                  
                   <input
                     type="password"
                     placeholder="Password"
