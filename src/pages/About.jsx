@@ -97,7 +97,7 @@ function About() {
           <img alt="team" className="flex-shrink-0 rounded-lg w-full h-56 object-cover object-center mb-4" src="../images/Affan.jpg"/>
           <div className="w-full">
             <h2 className="title-font font-medium text-lg text-gray-900">Mohd. Affan Ansari</h2>
-            <h3 className="text-gray-500 mb-3">DBA</h3>
+            <h3 className="text-gray-500 mb-3">Data Base Administrator</h3>
             <p className="mb-4">DIY tote bag drinking vinegar cronut adaptogen squid fanny pack vaporware.</p>
             <span className="inline-flex">
               <a className="text-gray-500">

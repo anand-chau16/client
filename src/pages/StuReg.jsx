@@ -15,7 +15,7 @@ function StuReg() {
               <h2 className="text-3xl mb-8 font-bold text-center">
                 Register As student
               </h2>
-              <form action="">
+              <form action="" id="stu" name="reg">
                 <div>
                   <input
                     type="text"

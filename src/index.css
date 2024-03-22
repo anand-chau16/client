@@ -13,7 +13,7 @@
     box-shadow: 6px 10px 25px rgba(0,0,0,0.3);
 }
 .box:hover input{
-  width: 400px;
+  width: 350px;
 }
 .box input{
     width:0;

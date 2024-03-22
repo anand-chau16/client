@@ -28,7 +28,7 @@ function Contact() {
               Live Chat: Available on our website during business hours
             </p>
             <p className="lg:w-2/3 mx-auto leading-relaxed text-base">
-            Additionally, you can fill out the form below, and we'll get back to you as soon as possible.
+              Additionally, you can fill out the form below, and we'll get back to you as soon as possible.
             </p>
           </div>
           <div className="lg:w-1/2 md:w-2/3 mx-auto">
@@ -42,7 +42,7 @@ function Contact() {
                     type="text"
                     id="name"
                     name="name"
-                    className="w-full bg-gray-100 bg-opacity-50 rounded border border-gray-300 focus:border-[#16d812] focus:bg-white focus:ring-2 focus:ring-green-600 text-base outline-none text-gray-700 py-1 px-3 leading-8 transition-colors duration-200 ease-in-out"
+                    className="w-full bg-gray-100 bg-opacity-50 rounded border border-gray-300 focus:border-[#16d812] focus:bg-white focus:ring-2 focus:ring-green-500 text-base outline-none text-gray-700 py-1 px-3 leading-8 transition-colors duration-200 ease-in-out"
                   />
                 </div>
               </div>
@@ -55,7 +55,7 @@ function Contact() {
                     type="email"
                     id="email"
                     name="email"
-                    className="w-full bg-gray-100 bg-opacity-50 rounded border border-gray-300 focus:border-[#16d812] focus:bg-white focus:ring-2 focus:ring-green-600 text-base outline-none text-gray-700 py-1 px-3 leading-8 transition-colors duration-200 ease-in-out"
+                    className="w-full bg-gray-100 bg-opacity-50 rounded border border-gray-300 focus:border-[#16d812] focus:bg-white focus:ring-2 focus:ring-green-500 text-base outline-none text-gray-700 py-1 px-3 leading-8 transition-colors duration-200 ease-in-out"
                   />
                 </div>
               </div>
@@ -67,17 +67,17 @@ function Contact() {
                   <textarea
                     id="message"
                     name="message"
-                    className="w-full bg-gray-100 bg-opacity-50 rounded border border-gray-300 focus:border-[#16d812] focus:bg-white focus:ring-2 focus:ring-green-600 h-32 text-base outline-none text-gray-700 py-1 px-3 resize-none leading-6 transition-colors duration-200 ease-in-out"
+                    className="w-full bg-gray-100 bg-opacity-50 rounded border border-gray-300 focus:border-[#16d812] focus:bg-white focus:ring-2 focus:ring-green-500 h-32 text-base outline-none text-gray-700 py-1 px-3 resize-none leading-6 transition-colors duration-200 ease-in-out"
                   ></textarea>
                 </div>
               </div>
               <div className="p-2 w-full">
-                <button className="flex mx-auto text-white bg-[#16d812] border-0 py-2 px-8 focus:outline-none hover:bg-green-600 rounded text-lg font-semibold">
-                Submit
+                <button className="flex mx-auto text-white bg-[#16d812] border-0 py-2 px-8 focus:outline-none hover:bg-green-500 rounded text-lg font-semibold">
+                  Submit
                 </button>
               </div>
               <div className="p-2 w-full pt-8 mt-8 border-t border-gray-200 text-center">
-                <a className="text-green-700 text-lg">AcademixLance@gmail.com</a>
+                <a className="text-green-500 text-lg">AcademixLance@gmail.com</a>
                 <p className="leading-normal my-5">
                   United Institute of Management, Naini,
                   <br />

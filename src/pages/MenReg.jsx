@@ -9,7 +9,7 @@ function MenReg() {
             <div className="flex flex-col items-center justify-center w-1/2 py-16 px-12 shadow-2 shadow-md">
               <h1 className="text-3xl mb-3 font-bold">Register As Mentor</h1>
               <div>
-                <form action="">
+                <form action="" id="men" name="reg">
                   <div>
                     <input
                       type="text"

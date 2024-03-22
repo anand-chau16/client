@@ -20,7 +20,7 @@ function LogIn() {
             className="w-1/2 py-16 px-12 shadow-2 rounded-xl shadow-md shadow-slate-500 ring-2 ring-slate-900/5"
           >
             <h2 className="text-3xl mb-10 text-center font-bold">Log In</h2>
-            <form action="" id="log" name="">
+            <form action="" id="log" name="log_in">
               <div>
                 <input
                   type="text"
@@ -34,7 +34,7 @@ function LogIn() {
                 />
                 <div className="mt-5 px-4">
                   <input type="checkbox" className="border-gray-300" />
-                  <span>Remember Me</span>
+                  <span>{" "}Remember Me</span>
                   <a className="ml-10 text-[#16d812] hover:underline" href="">Forgot Password?</a>
                 </div>
                 <div className="mt-8">
