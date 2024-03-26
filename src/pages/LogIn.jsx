@@ -4,8 +4,7 @@ function LogIn() {
   return (
     <>
     <div
-      className="min-h-screen py-20 bg-gradient-to-r from-green-100 via-green-200 to-green-300"
-      
+      className="min-h-screen py-10 bg-gradient-to-r from-green-100 via-green-200 to-green-300"
     >
       <div className="container mx-auto">
         <div

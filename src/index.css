@@ -2,7 +2,7 @@
 @tailwind components;
 @tailwind utilities;
 
-.box{
+/* .box{
     height:55px;
     display: flex;
     cursor: pointer;
@@ -26,4 +26,4 @@
     position: absolute;
     top: 20px;
     left: 50px;
-}
+} */

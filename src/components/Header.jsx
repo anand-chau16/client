@@ -89,13 +89,13 @@ function Header() {
                                 </NavLink>
           </li>
           
-          <li className="md:ml-8 md:my-0 my-7 md:inline text-slate-900 font-semibold text-xl hover:underline duration-500">
+          {/* <li className="md:ml-8 md:my-0 my-7 md:inline text-slate-900 font-semibold text-xl hover:underline duration-500">
             Admin
           </li>
 
           <li className="md:ml-8 md:my-0 my-7 md:inline text-slate-900 font-semibold text-xl hover:underline duration-500">
             Resources
-          </li>
+          </li> */}
 
           {/* <button className="bg-[#ff8a00] text-sm p-2 w-[90px] border rounded-lg md:w-[120px] md:text-lg font-semibold h-[57px] text-white md:ml-8">
           Get Started
@@ -106,7 +106,8 @@ function Header() {
           Login
         </button> */}
 
-          <div
+         
+<div
             className="flex
          gap-4 md:ml-8 flex-col md:flex-row"
           >
